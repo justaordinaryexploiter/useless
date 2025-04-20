@@ -1,0 +1,5 @@
+print("useless")
+task.wait(1)
+print("it was a test why did you wait for this")
+task.wait(2)
+print("...")
