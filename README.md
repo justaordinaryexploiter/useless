@@ -1,0 +1,2 @@
+# useless
+script link testing
