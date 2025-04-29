@@ -1,0 +1,2 @@
+-- why did i create this 😭
+loadstring(game:HttpGet(""))()
